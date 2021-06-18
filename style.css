@@ -1,0 +1,13 @@
+.texto {
+    font-size: 40px;
+    width: 100%;
+    max-width: 1000px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    line-height: 50px;
+}
+.texto:hover {
+    background-color: black;
+    color: #fff;
+}
